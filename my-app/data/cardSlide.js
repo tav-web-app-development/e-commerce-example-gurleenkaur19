@@ -1,0 +1,96 @@
+export const cardSilderData = [
+  {
+    title: "Featured Products",
+    items: [
+      {
+        id: 1,
+        title: "T-Shirt 1",
+        image: "/tshirt.png",
+        description: "This is card 1",
+        price: "100",
+      },
+      {
+        id: 2,
+        title: "T-Shirt 2",
+        image: "/tshirt.png",
+        description: "This is card 2",
+        price: "200",
+      },
+      {
+        id: 3,
+        title: "T-Shirt 3",
+        image: "/tshirt.png",
+        description: "This is card 3",
+        price: "300",
+      },
+      {
+        id: 4,
+        title: "T-Shirt 4",
+        image: "/tshirt.png",
+        description: "This is card 4",
+        price: "400",
+      },
+      {
+        id: 5,
+        title: "T-Shirt 5",
+        image: "/tshirt.png",
+        description: "This is card 5",
+        price: "500",
+      },
+      {
+        id: 6,
+        title: "T-Shirt 6",
+        image: "/tshirt.png",
+        description: "This is card 6",
+        price: "600",
+      },
+    ],
+  },
+  {
+    title: "Standard Edition",
+    items: [
+      {
+        id: 1,
+        title: "Cloth",
+        image: "/shirt.png",
+        description: "This is book 1",
+        price: "100",
+      },
+      {
+        id: 2,
+        title: "Cloth",
+        image: "/shirt.png",
+        description: "This is book 2",
+        price: "200",
+      },
+      {
+        id: 3,
+        title: "Cloth 3",
+        image: "/shirt.png",
+        description: "This is book 3",
+        price: "300",
+      },
+      {
+        id: 4,
+        title: "Cloth 4",
+        image: "/shirt.png",
+        description: "This is book 4",
+        price: "400",
+      },
+      {
+        id: 5,
+        title: "Cloth 5",
+        image: "/shirt.png",
+        description: "This is book 5",
+        price: "500",
+      },
+      {
+        id: 6,
+        title: "Cloth 6",
+        image: "/shirt.png",
+        description: "This is book 6",
+        price: "600",
+      },
+    ],
+  },
+];
